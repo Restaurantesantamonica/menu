@@ -2,7 +2,7 @@
     box-sizing: border-box;   
    }
 body{
-    background-image: url(fondo.png);
+    background-image: url(fondoop.png);
     background-size: 100vw 100vh;
     background-attachment: fixed;
     background-repeat: no-repeat;
